@@ -1,4 +1,4 @@
-# Breast-Cancer-Claassifier
+# Breast-Cancer-Classifier
 ### Classify tumors as either malignant or benign using K-Nearest Neighbors.
 
 In this project, we will be using several Python libraries to make a K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer.
